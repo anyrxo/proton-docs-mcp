@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "proton-docs": {
+      "command": "node",
+      "args": ["/Users/yourusername/proton-docs-mcp/dist/index.js"],
+      "env": {
+        "PROTON_DOCS_HEADLESS": "false",
+        "PROTON_DOCS_TIMEOUT": "15000"
+      }
+    }
+  }
+}
